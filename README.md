@@ -206,18 +206,6 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - 🛡️ **Pi-hole** — DNS custom + blocage publicitaire réseau
 - Stack complète Docker / self-hosted
 
-</td>
-<td width="50%" valign="top">
-
-### 📑 Appel d'offres Backup — Schaffter SA
-> Prestataire : Symtech — Infrastructure de sauvegarde
-
-- Architecture dual NAS (redondance)
-- Archivage cloud via Infomaniak
-- Document de tender professionnel formaté
-- Chiffrage et planification complète
-
-</td>
 </tr>
 </table>
 
