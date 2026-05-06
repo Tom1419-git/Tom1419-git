@@ -44,12 +44,14 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![vSphere](https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Réseau & Sécurité
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS_/_DHCP-2496ED?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN_(RRAS/SSTP/PPTP)-4285F4?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_CBS350-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-008C8C?style=for-the-badge&logo=cisco&logoColor=white)
 ![RADIUS](https://img.shields.io/badge/NPS_/_RADIUS-FF6F00?style=for-the-badge&logo=openvpn&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
@@ -67,14 +69,14 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Sauvegarde & Stockage
+### Bases de données & Stockage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Synology NAS](https://img.shields.io/badge/Synology_NAS-B5B5B6?style=for-the-badge&logo=synology&logoColor=black)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![iSCSI](https://img.shields.io/badge/iSCSI_Storage-333333?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![XMind](https://img.shields.io/badge/XMind-EF4A36?style=for-the-badge&logo=xmind&logoColor=white)
 ![Samba AD](https://img.shields.io/badge/Samba_AD-009639?style=for-the-badge&logo=samba&logoColor=white)
 ![Bind9](https://img.shields.io/badge/Bind9-333333?style=for-the-badge&logo=linux&logoColor=white)
 
