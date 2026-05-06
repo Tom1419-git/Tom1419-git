@@ -184,14 +184,15 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Bot de Trading
-> Projet personnel — Trading automatisé
+### 🤖 PEPE Grid Bot v2 — Trading Algorithmique
+> Projet personnel — Bot de trading crypto autonome (Python / Flask / Docker)
 
-- Bot de trading automatisé (achat/vente)
-- Intégration API de plateforme d'échange
-- Stratégies algorithmiques personnalisées
-- Analyse de données de marché en temps réel
-- Développement Python
+- 📈 **Grid Trading Spot** — Grille d'achat/vente dynamique avec DCA automatique, écart adaptatif via ATR, et rolling grid
+- 📉 **Futures Short (Hedging)** — Stratégie de short automatisée sur Binance Futures (Isolated 1x) déclenchée par analyse de tendance (EMA, RSI, Momentum, Volume)
+- 🔗 **Binance API** — Ordres MARKET réels (HMAC-SHA256), gestion des lots, resync des soldes en temps réel
+- 🖥️ **Dashboard Web** — Interface Flask temps réel avec graphiques TradingView, positions actives, et contrôles manuels
+- 📲 **Notifications** — Alertes Telegram + Discord sur chaque trade, avec clavier de commandes interactif
+- 🐳 **Déployé en production** — Docker sur NAS Synology, persistance d'état JSON, auto-restart
 
 </td>
 <td width="50%" valign="top">
