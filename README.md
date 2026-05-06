@@ -26,7 +26,7 @@ localisation: Lausanne, Suisse 🇨🇭
 formation: ETML — Section Informatique (MIN2B / MP2C)
 activité: Technicien IT indépendant (support remote & on-site)
 langues: Français (natif), Anglais
-centres_intérêt: [Infrastructure IT, Virtualisation, Réseaux, Scripting, Gaming]
+centres_intérêt: [Infrastructure IT, Virtualisation, Réseaux, Scripting, Trading Algo, Gaming]
 ```
 
 Je suis un étudiant passionné par l'infrastructure IT et l'administration système. En parallèle de mes études, j'exerce en tant que technicien informatique indépendant, offrant du support technique à distance et sur site. Mon quotidien : déployer des serveurs, configurer des réseaux, automatiser avec PowerShell, et résoudre des problèmes complexes.
@@ -62,8 +62,8 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 
 ### Self-Hosting & Homelab
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
-![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logo=radarr&logoColor=black)
-![Sonarr](https://img.shields.io/badge/Sonarr-2196F3?style=for-the-badge&logo=sonarr&logoColor=white)
+![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logoColor=black)
+![Sonarr](https://img.shields.io/badge/Sonarr-2196F3?style=for-the-badge&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -182,6 +182,18 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🤖 Bot de Trading
+> Projet personnel — Trading automatisé
+
+- Bot de trading automatisé (achat/vente)
+- Intégration API de plateforme d'échange
+- Stratégies algorithmiques personnalisées
+- Analyse de données de marché en temps réel
+- Développement Python
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏠 Homelab — Serveur multimédia & réseau
