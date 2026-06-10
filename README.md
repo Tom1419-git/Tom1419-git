@@ -299,6 +299,7 @@ Documentation     ████████████████████�
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tom1419--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tom1419-git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Mayoraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-mayoraz-6759b339a/)
 [![Location](https://img.shields.io/badge/📍_Lausanne,_Suisse-0d4f8b?style=for-the-badge)](https://github.com/Tom1419-git)
 
 </div>
