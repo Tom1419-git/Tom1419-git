@@ -90,6 +90,17 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 <tr>
 <td width="50%" valign="top">
 
+### 🌐 Portfolio & Vitrine IT — `mayoraz-net.ch`
+> **Projet Personnel** — Développement Web HTML/CSS/JS Pur
+
+- **Easter Eggs & UI** : Mode Matrix (Konami Code), CV JSON via API (`curl`), et Mini-jeu caché (Admin Run).
+- **Architecture Clean** : URLs propres (`/homelab/`), i18n complet (FR/EN) et Dark Mode.
+- **SEO & Perfs** : Déploiement automatisé GitHub Pages, Cloudflare WAF, sitemap dynamique.
+- **Transparence SysAdmin** : Page de status live des services, et documentations réseaux.
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏗️ Infra Windows Server — `symtech.local`
 > **Projet P-188** — Infrastructure complète Windows Server 2022 en PowerShell
 
@@ -99,6 +110,8 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Automatisation end-to-end via PowerShell
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔄 WSUS — Automatisation des mises à jour — `zyrtech.local`
@@ -110,8 +123,6 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Planification et monitoring centralisé
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌐 VPN Infrastructure — Zyrtech
@@ -123,6 +134,8 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Rapport technique complet rédigé en français
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🐧 Samba AD + Bind9 + DHCP — `pubsoft.local`
@@ -134,8 +147,6 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Jointure de clients au domaine
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💾 Plan de reprise après sinistre (DRP)
@@ -147,6 +158,8 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Architecture cloud hybride (Infomaniak)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 Pentest — Scan de vulnérabilités FTP
@@ -158,8 +171,6 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Documentation des vecteurs d'attaque
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ☁️ VMware vSphere — Modules C340 / C-190
@@ -171,6 +182,8 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Diagramme SVG de l'infrastructure réseau
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔧 Ansible — Cisco CBS350
@@ -182,8 +195,6 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Automatisation reproductible
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 PEPE Grid Bot v2 — Trading Algorithmique
@@ -197,6 +208,8 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - 🐳 **Déployé en production** — Docker sur NAS Synology, persistance d'état JSON, auto-restart
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏠 Homelab — Serveur multimédia & réseau
@@ -209,7 +222,7 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Stack complète Docker / self-hosted
 
 </td>
-
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -259,16 +272,6 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 <br/>
 
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tom1419-git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tom1419-git&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/Tom1419-git)
 
 </div>
 
