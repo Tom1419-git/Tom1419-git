@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d4f8b&height=220&section=header&text=Thomas%20Mayoraz&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=IT%20Infrastructure%20%7C%20Sysadmin%20%7C%20Network%20Engineering&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d4f8b&height=220&section=header&text=Thomas%20Mayoraz&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=IT%20Infrastructure%20%7C%20Sysadmin%20%7C%20SaaS%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%8E%93+%C3%89tudiant+en+informatique+%C3%A0+l'ETML;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%8E%93+%C3%89tudiant+en+informatique+%C3%A0+l'ETML;%F0%9F%9A%80+Builder+SaaS+%7C+FactureArtisan;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,13 +23,35 @@
 ```yaml
 nom: Thomas Mayoraz
 localisation: Lausanne, Suisse 🇨🇭
-formation: ETML — Section Informatique (MIN2B / MP2C)
-activité: Technicien IT indépendant (support remote & on-site)
+formation: ETML — Section Informatique
+activités:
+  - Technicien IT indépendant (support remote & on-site)
+  - Builder SaaS — FactureArtisan (facturation pour artisans)
 langues: Français (natif), Anglais
-centres_intérêt: [Infrastructure IT, Virtualisation, Réseaux, Scripting, Trading Algo, Gaming]
+centres_intérêt: [Infrastructure IT, Virtualisation, Réseaux, SaaS, Scripting, Trading Algo]
 ```
 
-Je suis un étudiant passionné par l'infrastructure IT et l'administration système. En parallèle de mes études, j'exerce en tant que technicien informatique indépendant, offrant du support technique à distance et sur site. Mon quotidien : déployer des serveurs, configurer des réseaux, automatiser avec PowerShell, et résoudre des problèmes complexes.
+Je suis un étudiant passionné par l'infrastructure IT et l'administration système. En parallèle de mes études, j'exerce en tant que technicien informatique indépendant et je développe **FactureArtisan**, un SaaS de facturation destiné aux artisans et indépendants. Mon quotidien : déployer des serveurs, configurer des réseaux, automatiser, et construire des produits qui servent vraiment leurs utilisateurs.
+
+---
+
+## 🚀 Projet phare — FactureArtisan
+
+<div align="center">
+
+<a href="https://facture.mayoraz-net.ch">
+  <img src="https://img.shields.io/badge/🧾_facture.mayoraz-net.ch-4f46e5?style=for-the-badge" alt="FactureArtisan" />
+</a>
+
+**Générateur de factures professionnel, rapide et conforme — pensé pour les artisans et indépendants.**
+
+</div>
+
+- ⚡ **Génération instantanée** — Factures PDF professionnelles directement depuis le navigateur, sur ordinateur ou mobile
+- 🇨🇭 **Conformité Suisse** — Taux de TVA natifs (8.1% / 2.6%) et mentions légales intégrées
+- 🔒 **Espace sécurisé** — Factures et clients chiffrés, sauvegarde automatique
+- 🎨 **Personnalisation Pro** — Logo d'entreprise, image de marque irréprochable
+- 💰 **Freemium simple** — Essai gratuit, puis abonnement Pro ou licence à vie
 
 ---
 
@@ -44,36 +66,36 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![vSphere](https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ### Réseau & Sécurité
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS_/_DHCP-2496ED?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN_(RRAS/SSTP/PPTP)-4285F4?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_CBS350-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-008C8C?style=for-the-badge&logo=cisco&logoColor=white)
 ![RADIUS](https://img.shields.io/badge/NPS_/_RADIUS-FF6F00?style=for-the-badge&logo=openvpn&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### Scripting & Automatisation
+### Développement & SaaS
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![WSUS](https://img.shields.io/badge/WSUS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Self-Hosting & Homelab
-![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
-![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logoColor=black)
-![Sonarr](https://img.shields.io/badge/Sonarr-2196F3?style=for-the-badge&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Bases de données & Stockage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Synology NAS](https://img.shields.io/badge/Synology_NAS-B5B5B6?style=for-the-badge&logo=synology&logoColor=black)
-![iSCSI](https://img.shields.io/badge/iSCSI_Storage-333333?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,21 +106,10 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 
 ---
 
-## 📂 Projets majeurs
+## 📂 Projets
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio & Vitrine IT — `mayoraz-net.ch`
-> **Projet Personnel** — Développement Web HTML/CSS/JS Pur
-
-- **Easter Eggs & UI** : Mode Matrix (Konami Code), CV JSON via API (`curl`), et Mini-jeu caché (Admin Run).
-- **Architecture Clean** : URLs propres (`/homelab/`), i18n complet (FR/EN) et Dark Mode.
-- **SEO & Perfs** : Déploiement automatisé GitHub Pages, Cloudflare WAF, sitemap dynamique.
-- **Transparence SysAdmin** : Page de status live des services, et documentations réseaux.
-
-</td>
 <td width="50%" valign="top">
 
 ### 🏗️ Infra Windows Server — `symtech.local`
@@ -108,6 +119,17 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Auth SSH par clés + partages SMB avec permissions NTFS
 - GPO (blocage Task Manager employés, logon scripts)
 - Automatisation end-to-end via PowerShell
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Homelab — Proxmox, médias & réseau
+> Infrastructure personnelle auto-hébergée, 24/7
+
+- 🎬 **Jellyfin + Tdarr** — Streaming avec transcodage GPU (VAAPI)
+- 🛡️ **Pi-hole HA** — DNS redondant + DoH, aucune fuite en clair
+- 📊 **Grafana + Uptime Kuma** — Monitoring et alertes Telegram
+- 🐳 **Stack Docker** — Sauvegardes chiffrées S3 off-site quotidiennes
 
 </td>
 </tr>
@@ -149,6 +171,20 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 </td>
 <td width="50%" valign="top">
 
+### 🤖 PEPE Grid Bot v2 — Trading Algorithmique
+> Projet personnel — Bot de trading crypto autonome (Python / Flask / Docker)
+
+- 📈 **Grid Trading Spot** — Grille dynamique avec DCA, écart adaptatif ATR
+- 📉 **Futures Short** — Short automatisé sur Binance (analyse EMA/RSI/Momentum)
+- 🖥️ **Dashboard Web** — Flask temps réel, graphiques TradingView
+- 📲 **Alertes** — Telegram + Discord sur chaque trade
+- 🐳 **En production** — Docker sur NAS Synology, auto-restart
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💾 Plan de reprise après sinistre (DRP)
 > **Rapport R-P_143** — Groupe — Windows Server 2025
 
@@ -158,19 +194,6 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 - Architecture cloud hybride (Infomaniak)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Pentest — Scan de vulnérabilités FTP
-> Projet scolaire — Sécurité offensive
-
-- Scripts Python & Bash de scan de ports
-- Exploitation de vulnérabilités FTP sur réseau privé
-- Ciblage de plages de ports spécifiques
-- Documentation des vecteurs d'attaque
-
-</td>
 <td width="50%" valign="top">
 
 ### ☁️ VMware vSphere — Modules C340 / C-190
@@ -178,72 +201,11 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 
 - HA, DRS, Enhanced DRS, PMem
 - Architecture ESXi imbriquée avec stockage iSCSI
-- Mindmaps, présentations PPTX et infographies
-- Diagramme SVG de l'infrastructure réseau
+- Diagrammes et infographies d'infrastructure
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Ansible — Cisco CBS350
-> Automatisation réseau — Switch managé
-
-- Playbook Ansible pour configuration réseau
-- Debug : algorithmes d'échange de clés SSH legacy
-- Compatibilité OpenSSH ancienne génération
-- Automatisation reproductible
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 PEPE Grid Bot v2 — Trading Algorithmique
-> Projet personnel — Bot de trading crypto autonome (Python / Flask / Docker)
-
-- 📈 **Grid Trading Spot** — Grille d'achat/vente dynamique avec DCA automatique, écart adaptatif via ATR, et rolling grid
-- 📉 **Futures Short (Hedging)** — Stratégie de short automatisée sur Binance Futures (Isolated 1x) déclenchée par analyse de tendance (EMA, RSI, Momentum, Volume)
-- 🔗 **Binance API** — Ordres MARKET réels (HMAC-SHA256), gestion des lots, resync des soldes en temps réel
-- 🖥️ **Dashboard Web** — Interface Flask temps réel avec graphiques TradingView, positions actives, et contrôles manuels
-- 📲 **Notifications** — Alertes Telegram + Discord sur chaque trade, avec clavier de commandes interactif
-- 🐳 **Déployé en production** — Docker sur NAS Synology, persistance d'état JSON, auto-restart
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 Homelab — Serveur multimédia & réseau
-> Infrastructure personnelle auto-hébergée
-
-- 🎬 **Jellyfin** — Serveur de streaming films & séries
-- 📋 **Jellyseerr** — Interface de demandes média
-- 🎯 **Radarr / Sonarr** — Gestion automatisée des films & séries
-- 🛡️ **Pi-hole** — DNS custom + blocage publicitaire réseau
-- Stack complète Docker / self-hosted
-
-</td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
-
----
-
-## 🚀 Projet entrepreneurial
-
-<div align="center">
-
-### 🃏 CARDELIX — Jeu de cartes physique
-> *Inspiré de l'esthétique Clash Royale — Projet scolaire d'entrepreneuriat*
-
-</div>
-
-**CARDELIX** est un jeu de cartes physique développé en partenariat, combinant stratégie et collecte. Le projet couvre l'ensemble de la chaîne, du concept au business plan :
-
-- 📊 **Business Plan** — Projections financières sur 3 ans, Business Model Canvas
-- 🎨 **Design** — Flyer au thème sombre, packaging de boîtes de cartes
-- 📈 **Finances** — Tableaux financiers Excel avec graphiques
-- 🔄 **Processus** — Diagrammes BPMN de la chaîne de livraison
-- 🎤 **Pitch** — Script oral pour présentation du BMC
 
 ---
 
@@ -255,8 +217,8 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 |:---:|:---:|:---:|
 | Dépannage PC / réseau | Installation & configuration | Serveurs média (Jellyfin) |
 | Configuration logicielle | Montage & upgrade hardware | DNS custom (Pi-hole) |
-| Assistance utilisateur | Déploiement d'infrastructure | Automatisation (Radarr, Sonarr) |
-| Conseil & formation | Câblage réseau | Conteneurisation Docker |
+| Assistance utilisateur | Déploiement d'infrastructure | Automatisation (n8n, Docker) |
+| Conseil & formation | Câblage réseau | Facturation (FactureArtisan 😉) |
 
 </div>
 
@@ -286,7 +248,7 @@ Virtualisation    ████████████████████�
 Réseaux           ██████████████████░░░   85%
 Self-Hosting      ██████████████████░░░   85%
 Linux (Debian)    ███████████████░░░░░░   75%
-Ansible           ██████████████░░░░░░░   70%
+SaaS & Web        ███████████████░░░░░░   75%
 Python            ██████████████░░░░░░░   70%
 Sécurité          ███████████████░░░░░░   75%
 Documentation     ████████████████████░   95%
@@ -300,6 +262,7 @@ Documentation     ████████████████████�
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tom1419--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tom1419-git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Mayoraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-mayoraz-it/)
+[![FactureArtisan](https://img.shields.io/badge/🧾_FactureArtisan-4f46e5?style=for-the-badge)](https://facture.mayoraz-net.ch)
 [![Location](https://img.shields.io/badge/📍_Lausanne,_Suisse-0d4f8b?style=for-the-badge)](https://github.com/Tom1419-git)
 
 </div>
