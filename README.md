@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d4f8b&height=220&section=header&text=Thomas%20Mayoraz&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=IT%20Infrastructure%20%7C%20Sysadmin%20%7C%20SaaS%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d4f8b&height=220&section=header&text=Thomas%20Mayoraz&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=IT%20Infrastructure%20%7C%20Sysadmin%20%7C%20Self-Hosting%20%26%20Automation&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%8E%93+%C3%89tudiant+en+informatique+%C3%A0+l'ETML;%F0%9F%9A%80+Builder+SaaS+%7C+FactureArtisan;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%8E%93+%C3%89tudiant+en+informatique+%C3%A0+l'ETML;%F0%9F%8F%A0+Homelab+24%2F7+%7C+Proxmox+%C2%B7+Docker+%C2%B7+n8n;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -26,32 +26,35 @@ localisation: Lausanne, Suisse 🇨🇭
 formation: ETML — Section Informatique
 activités:
   - Technicien IT indépendant (support remote & on-site)
-  - Builder SaaS — FactureArtisan (facturation pour artisans)
+  - Self-hoster — infrastructure personnelle 24/7 (Proxmox, Docker, médias, DNS)
 langues: Français (natif), Anglais
-centres_intérêt: [Infrastructure IT, Virtualisation, Réseaux, SaaS, Scripting, Trading Algo]
+centres_intérêt: [Infrastructure IT, Virtualisation, Réseaux, Self-Hosting, Scripting, Trading Algo]
 ```
 
-Je suis un étudiant passionné par l'infrastructure IT et l'administration système. En parallèle de mes études, j'exerce en tant que technicien informatique indépendant et je développe **FactureArtisan**, un SaaS de facturation destiné aux artisans et indépendants. Mon quotidien : déployer des serveurs, configurer des réseaux, automatiser, et construire des produits qui servent vraiment leurs utilisateurs.
+Je suis un étudiant passionné par l'infrastructure IT et l'administration système. En parallèle de mes études, j'exerce en tant que technicien informatique indépendant et j'exploite au quotidien une **infrastructure personnelle auto-hébergée** : virtualisation Proxmox, stack médias Jellyfin, DNS redondant, automatisation n8n et monitoring. Mon quotidien : déployer des serveurs, configurer des réseaux, automatiser tout ce qui peut l'être — et le documenter.
+
+🌐 **Mon site & portfolio** : [mayoraz-net.ch](https://mayoraz-net.ch)
 
 ---
 
-## 🚀 Projet phare — FactureArtisan
+## 🏠 Projet phare — Infrastructure personnelle
 
 <div align="center">
 
-<a href="https://facture.mayoraz-net.ch">
-  <img src="https://img.shields.io/badge/🧾_facture.mayoraz-net.ch-4f46e5?style=for-the-badge" alt="FactureArtisan" />
+<a href="https://mayoraz-net.ch">
+  <img src="https://img.shields.io/badge/🌐_mayoraz--net.ch-0d4f8b?style=for-the-badge" alt="mayoraz-net.ch" />
 </a>
 
-**Générateur de factures professionnel, rapide et conforme — pensé pour les artisans et indépendants.**
+**Un homelab 24/7 qui fait tourner de vrais services — pas un labo théorique.**
 
 </div>
 
-- ⚡ **Génération instantanée** — Factures PDF professionnelles directement depuis le navigateur, sur ordinateur ou mobile
-- 🇨🇭 **Conformité Suisse** — Taux de TVA natifs (8.1% / 2.6%) et mentions légales intégrées
-- 🔒 **Espace sécurisé** — Factures et clients chiffrés, sauvegarde automatique
-- 🎨 **Personnalisation Pro** — Logo d'entreprise, image de marque irréprochable
-- 💰 **Freemium simple** — Essai gratuit, puis abonnement Pro ou licence à vie
+- 🎬 **Streaming** — Jellyfin + Tdarr avec transcodage GPU (VAAPI), access partout
+- 🛡️ **DNS haute dispo** — Double Pi-hole (failover actif) + DoH, aucune fuite en clair
+- 🤖 **Automatisation** — n8n pilote formulaires, alertes Telegram et rapports quotidiens
+- 📊 **Observabilité** — Grafana + Loki + Uptime Kuma, alertes avant les pannes
+- 🔐 **Accès sécurisé** — NetBird (WireGuard), Authelia, CrowdSec, sauvegardes S3 chiffrées
+- 🌍 **Vitrine web** — Portfolio Astro orienté perf (Lighthouse SEO 100), CI GitHub Pages
 
 ---
 
@@ -76,10 +79,9 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 ![RADIUS](https://img.shields.io/badge/NPS_/_RADIUS-FF6F00?style=for-the-badge&logo=openvpn&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### Développement & SaaS
+### Développement & Web
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -218,7 +220,7 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 | Dépannage PC / réseau | Installation & configuration | Serveurs média (Jellyfin) |
 | Configuration logicielle | Montage & upgrade hardware | DNS custom (Pi-hole) |
 | Assistance utilisateur | Déploiement d'infrastructure | Automatisation (n8n, Docker) |
-| Conseil & formation | Câblage réseau | Facturation (FactureArtisan 😉) |
+| Conseil & formation | Câblage réseau | Sites web & déploiement d'apps |
 
 </div>
 
@@ -228,12 +230,12 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tom1419-git&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tom1419-git&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Tom1419-git&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tom1419-git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom1419-git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -248,7 +250,7 @@ Virtualisation    ████████████████████�
 Réseaux           ██████████████████░░░   85%
 Self-Hosting      ██████████████████░░░   85%
 Linux (Debian)    ███████████████░░░░░░   75%
-SaaS & Web        ███████████████░░░░░░   75%
+Web & Frontend    ███████████████░░░░░░   75%
 Python            ██████████████░░░░░░░   70%
 Sécurité          ███████████████░░░░░░   75%
 Documentation     ████████████████████░   95%
@@ -262,8 +264,8 @@ Documentation     ████████████████████�
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tom1419--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tom1419-git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Mayoraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-mayoraz-it/)
-[![FactureArtisan](https://img.shields.io/badge/🧾_FactureArtisan-4f46e5?style=for-the-badge)](https://facture.mayoraz-net.ch)
-[![Location](https://img.shields.io/badge/📍_Lausanne,_Suisse-0d4f8b?style=for-the-badge)](https://github.com/Tom1419-git)
+[![Website](https://img.shields.io/badge/🌐_mayoraz--net.ch-0d4f8b?style=for-the-badge)](https://mayoraz-net.ch)
+[![Location](https://img.shields.io/badge/📍_Lausanne,_Suisse-161b22?style=for-the-badge)](https://github.com/Tom1419-git)
 
 </div>
 
