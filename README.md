@@ -270,6 +270,12 @@ Mastermind en C# (WinForms) : logique de jeu, statistiques persistantes et exéc
 
 <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tom1419-git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
+
+<br/>
+
+📊 **Chiffres réels** — 364 commits publics depuis juin 2026 · 5 repos
+(dont 265 sur [mayoraz-net](https://github.com/Tom1419-git/mayoraz-net), ce portfolio)
+
 </div>
 
 ---
