@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%8E%93+%C3%89tudiant+en+informatique+%C3%A0+l'ETML;%F0%9F%8F%A0+Homelab+24%2F7+%7C+Proxmox+%C2%B7+Docker+%C2%B7+n8n;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%8E%93+Apprenti+informaticien+%C3%A0+l'ETML+%C2%B7+3e+ann%C3%A9e;%F0%9F%8F%A0+Homelab+24%2F7+%7C+Proxmox+%C2%B7+Docker+%C2%B7+n8n;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,13 +25,13 @@ nom: Thomas Mayoraz
 localisation: Lausanne, Suisse 🇨🇭
 formation: ETML — Section Informatique
 activités:
-  - Technicien IT indépendant (support remote & on-site)
-  - Self-hoster — infrastructure personnelle 24/7 (Proxmox, Docker, médias, DNS)
-langues: Français (natif), Anglais
+  - Apprenti informaticien (ETML, 3e année) — orientation infrastructure
+  - Technicien IT indépendant — PME & particuliers, région lausannoise
+langues: Français (natif) · Anglais (professionnel)
 centres_intérêt: [Infrastructure IT, Virtualisation, Réseaux, Self-Hosting, Scripting, Trading Algo]
 ```
 
-Je suis un étudiant passionné par l'infrastructure IT et l'administration système. En parallèle de mes études, j'exerce en tant que technicien informatique indépendant et j'exploite au quotidien une **infrastructure personnelle auto-hébergée** : virtualisation Proxmox, stack médias Jellyfin, DNS redondant, automatisation n8n et monitoring. Mon quotidien : déployer des serveurs, configurer des réseaux, automatiser tout ce qui peut l'être — et le documenter.
+Je conçois, déploie et maintiens des infrastructures qui tournent 24/7. Mon terrain de jeu : un **homelab Proxmox en production réelle** (médias, DNS redondant, automatisation, monitoring) et, en parallèle, une activité de **technicien IT indépendant** auprès de PME et particuliers. Ce qui me distingue : je ne me contente pas de faire marcher — je documente, je sauvegarde et je sécurise tout ce que je construis.
 
 🌐 **Mon site & portfolio** : [mayoraz-net.ch](https://mayoraz-net.ch)
 
@@ -45,11 +45,11 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
   <img src="https://img.shields.io/badge/🌐_mayoraz--net.ch-0d4f8b?style=for-the-badge" alt="mayoraz-net.ch" />
 </a>
 
-**Un homelab 24/7 qui fait tourner de vrais services — pas un labo théorique.**
+**Un homelab en production 24/7 : 6 conteneurs, ~46 services Docker, 3 niveaux de sauvegarde — au service de vrais usages, pas un labo théorique.**
 
 </div>
 
-- 🎬 **Streaming** — Jellyfin + Tdarr avec transcodage GPU (VAAPI), access partout
+- 🎬 **Streaming** — Jellyfin + Tdarr, transcodage GPU (VAAPI), accessible partout
 - 🛡️ **DNS haute dispo** — Double Pi-hole (failover actif) + DoH, aucune fuite en clair
 - 🤖 **Automatisation** — n8n pilote formulaires, alertes Telegram et rapports quotidiens
 - 📊 **Observabilité** — Grafana + Loki + Uptime Kuma, alertes avant les pannes
@@ -245,6 +245,11 @@ Mastermind en C# (WinForms) : logique de jeu, statistiques persistantes et exéc
 ---
 
 ## 💼 Services professionnels — Technicien IT indépendant
+
+Dépannage, installation, infrastructure : j'interviens chez les particuliers
+et PME de la région lausannoise avec le même niveau d'exigence que sur mon
+homelab — des solutions fiables, documentées et maintenables.
+
 
 <div align="center">
 
