@@ -274,22 +274,17 @@ Mastermind en C# (WinForms) : logique de jeu, statistiques persistantes et exéc
 
 ---
 
-## 🗺️ Compétences — Radar
+## 🧭 Compétences — preuves par projet
 
-```text
-Windows Server    ████████████████████░   95%
-PowerShell        ███████████████████░░   90%
-Virtualisation    ████████████████████░   95%
-Réseaux           ██████████████████░░░   85%
-Self-Hosting      ██████████████████░░░   85%
-Linux (Debian)    ███████████████░░░░░░   75%
-Web & Frontend    ███████████████░░░░░░   75%
-Python            ██████████████░░░░░░░   70%
-Sécurité          ███████████████░░░░░░   75%
-Documentation     ████████████████████░   95%
-```
-
----
+| Domaine | La preuve, pas une note |
+|---|---|
+| **Systèmes Windows** | Infra AD DS complète scriptée (P-188), WSUS automatisé, plan de reprise testé |
+| **Virtualisation** | Proxmox VE en production 24/7 (6 LXC) · VMware vSphere (HA, DRS, ESXi imbriqué) |
+| **Réseaux** | DNS redondant Pi-hole + DoH · VPN RRAS/NPS · reverse proxy Caddy (12 sites) |
+| **Linux** | Samba AD + Bind9 sur Debian · administration LXC/Docker quotidienne |
+| **Automatisation** | n8n, systemd timers, scripts bash/Python, backups chiffrés S3 |
+| **Développement web** | Portfolio Astro i18n FR/EN (ce site) · e-commerce PHP MVC |
+| **Sécurité** | SSO Authelia + 2FA, CrowdSec, SSH par clés uniquement, secrets rotés |
 
 ## 🔗 Me contacter
 
