@@ -211,6 +211,39 @@ Je suis un étudiant passionné par l'infrastructure IT et l'administration syst
 
 ---
 
+### 💻 Projets de développement (ETML)
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🛒 [Scrum-vente](https://github.com/Tom1419-git/Scrum-vente)**
+Plateforme e-commerce PHP full-stack (MVC) — catalogue, panier, commandes et back-office, menée en méthodologie Scrum.
+
+`PHP` `MySQL` `MVC` `Scrum`
+
+</td>
+<td width="33%" valign="top">
+
+**🎵 [CodificationMorse114](https://github.com/Tom1419-git/CodificationMorse114)**
+Couteau suisse C# : encodeur Morse, conversions de bases et stéganographie — sans aucune fonction intégrée.
+
+`C#` `.NET` `Algorithmique`
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 [DemoMot-Mastermind](https://github.com/Tom1419-git/DemoMot-Mastermind)**
+Mastermind en C# (WinForms) : logique de jeu, statistiques persistantes et exécutable autonome.
+
+`C#` `WinForms` `.NET`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Services professionnels — Technicien IT indépendant
 
 <div align="center">
