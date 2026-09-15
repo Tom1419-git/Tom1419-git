@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:0d4f8b&amp;height=220&amp;section=header&amp;text=Thomas%20Mayoraz&amp;fontSize=42&amp;fontColor=58a6ff&amp;fontAlignY=35&amp;desc=IT%20Infrastructure%20%7C%20Sysadmin%20%7C%20Self-Hosting%20%26%20Automation&amp;descSize=18&amp;descColor=8b949e&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
+<!-- HEADER BANNER (SVG local : aucune dépendance externe, charge toujours) -->
+<img src="assets-readme/banner-header.svg" width="100%"/>
 
 <br/>
 
@@ -316,6 +316,6 @@ homelab — des solutions fiables, documentées et maintenables.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:0d4f8b&amp;height=120&amp;section=footer" width="100%"/>
+<img src="assets-readme/banner-footer.svg" width="100%"/>
 
 </div>
