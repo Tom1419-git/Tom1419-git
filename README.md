@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- HEADER BANNER (SVG local : aucune dépendance externe, charge toujours) -->
-<img src="assets-readme/banner-header.svg" width="100%"/>
+<!-- HEADER BANNER (SVG local, bascule auto sombre/clair via prefers-color-scheme) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets-readme/banner-header.svg">
+  <img src="assets-readme/banner-header-light.svg" width="100%" alt="Thomas Mayoraz — IT Infrastructure, Sysadmin, Self-Hosting and Automation"/>
+</picture>
 
 <br/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=%F0%9F%8E%93+Apprenti+informaticien+%C3%A0+l'ETML+%C2%B7+3e+ann%C3%A9e;%F0%9F%8F%A0+Homelab+24%2F7+%7C+Proxmox+%C2%B7+Docker+%C2%B7+n8n;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Typing SVG" /></a>
+<!-- TYPING SVG (height corrigée : 3 lignes size 22 => 100px minimum, sinon la derniere ligne est rogne) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=750&amp;height=110&amp;lines=%F0%9F%8E%93+Apprenti+informaticien+%C3%A0+l'ETML+%C2%B7+3e+ann%C3%A9e;%F0%9F%8F%A0+Homelab+24%2F7+%7C+Proxmox+%C2%B7+11+LXC+%C2%B7+Docker;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Apprenti informaticien à l'ETML — Homelab 24/7 Proxmox et Docker — Technicien IT indépendant à Lausanne" /></a>
 
 <br/>
 
@@ -45,13 +48,13 @@ Je conçois, déploie et maintiens des infrastructures qui tournent 24/7. Mon te
   <img src="https://img.shields.io/badge/🌐_mayoraz--net.ch-0d4f8b?style=for-the-badge" alt="mayoraz-net.ch" />
 </a>
 
-**Un homelab en production 24/7 : 6 conteneurs, ~46 services Docker, 3 niveaux de sauvegarde — au service de vrais usages, pas un labo théorique.**
+**Un homelab en production 24/7 : 11 conteneurs LXC, assistant d'exploitation IA, 3 niveaux de sauvegarde drillé — au service de vrais usages, pas un labo théorique.**
 
 </div>
 
 - 🎬 **Streaming** — Jellyfin + Tdarr, transcodage GPU (VAAPI), accessible partout
 - 🛡️ **DNS haute dispo** — Double Pi-hole (failover actif) + DoH, aucune fuite en clair
-- 🤖 **Automatisation** — n8n pilote formulaires, alertes Telegram et rapports quotidiens
+- 🤖 **Automatisation** — **[Vektor](https://github.com/Tom1419-git/vektor)**, mon assistant d'exploitation IA (bot Telegram, actions à double confirmation)
 - 📊 **Observabilité** — Grafana + Loki + Uptime Kuma, alertes avant les pannes
 - 🔐 **Accès sécurisé** — NetBird (WireGuard), Authelia, CrowdSec, sauvegardes S3 chiffrées
 - 🌍 **Vitrine web** — Portfolio Astro orienté perf (Lighthouse SEO 100), CI GitHub Pages
@@ -268,12 +271,21 @@ homelab — des solutions fiables, documentées et maintenables.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tom1419-git&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff&amp;count_private=true&amp;include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Tom1419-git&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=161b22&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Tom1419-git&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff&amp;count_private=true&amp;include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tom1419-git&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=57606a&amp;ring_color=0969da&amp;count_private=true&amp;include_all_commits=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Tom1419-git&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=161b22&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Tom1419-git&amp;hide_border=true&amp;background=ffffffef&amp;stroke=eaeef2&amp;ring=0969da&amp;fire=0969da&amp;currStreakLabel=0969da" />
+</picture>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tom1419-git&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tom1419-git&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tom1419-git&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=57606a&amp;langs_count=8" />
+</picture>
 
 
 <br/>
@@ -290,10 +302,10 @@ homelab — des solutions fiables, documentées et maintenables.
 | Domaine | La preuve, pas une note |
 |---|---|
 | **Systèmes Windows** | Infra AD DS complète scriptée (P-188), WSUS automatisé, plan de reprise testé |
-| **Virtualisation** | Proxmox VE en production 24/7 (6 LXC) · VMware vSphere (HA, DRS, ESXi imbriqué) |
+| **Virtualisation** | Proxmox VE en production 24/7 (11 LXC) · VMware vSphere (HA, DRS, ESXi imbriqué) |
 | **Réseaux** | DNS redondant Pi-hole + DoH · VPN RRAS/NPS · reverse proxy Caddy (12 sites) |
 | **Linux** | Samba AD + Bind9 sur Debian · administration LXC/Docker quotidienne |
-| **Automatisation** | n8n, systemd timers, scripts bash/Python, backups chiffrés S3 |
+| **Automatisation** | **[Vektor](https://github.com/Tom1419-git/vektor)** (bot IA à double confirmation), systemd timers, scripts bash/Python, backups chiffrés S3 |
 | **Développement web** | Portfolio Astro i18n FR/EN (ce site) · e-commerce PHP MVC |
 | **Sécurité** | SSO Authelia + 2FA, CrowdSec, SSH par clés uniquement, secrets rotés |
 
@@ -316,6 +328,9 @@ homelab — des solutions fiables, documentées et maintenables.
 
 <br/>
 
-<img src="assets-readme/banner-footer.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets-readme/banner-footer.svg">
+  <img src="assets-readme/banner-footer-light.svg" width="100%" alt=""/>
+</picture>
 
 </div>
