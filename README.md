@@ -57,7 +57,7 @@ Je conçois, déploie et maintiens des infrastructures qui tournent 24/7. Mon te
 - 🤖 **Automatisation** — **[Vektor](https://github.com/Tom1419-git/vektor)**, mon assistant d'exploitation IA (bot Telegram, actions à double confirmation)
 - 📊 **Observabilité** — Grafana + Loki + Uptime Kuma, alertes avant les pannes
 - 🔐 **Accès sécurisé** — NetBird (WireGuard), Authelia, CrowdSec, sauvegardes S3 chiffrées
-- 🌍 **Vitrine web** — Portfolio Astro orienté perf (Lighthouse SEO 100), CI GitHub Pages
+- 🌍 **Vitrine web** — Portfolio Astro orienté perf (Lighthouse SEO 100), CI GitHub Actions → Cloudflare Workers
 
 ---
 
