@@ -1,0 +1,42 @@
+{
+ "login": "Tom1419-git",
+ "date": "2026-11-20",
+ "contributions": 500,
+ "streak": 3,
+ "longest": 9,
+ "repos": 7,
+ "langs": [
+  [
+   "PHP",
+   64.6
+  ],
+  [
+   "JavaScript",
+   23.6
+  ],
+  [
+   "CSS",
+   4.6
+  ],
+  [
+   "HTML",
+   2.2
+  ],
+  [
+   "Java",
+   2.2
+  ],
+  [
+   "Python",
+   1.6
+  ],
+  [
+   "SCSS",
+   0.8
+  ],
+  [
+   "Astro",
+   0.5
+  ]
+ ]
+}

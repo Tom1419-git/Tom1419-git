@@ -8,14 +8,15 @@
 
 <br/>
 
-<!-- TYPING SVG (height corrigée : 3 lignes size 22 => 100px minimum, sinon la derniere ligne est rogne) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=750&amp;height=110&amp;lines=%F0%9F%8E%93+Apprenti+informaticien+%C3%A0+l'ETML+%C2%B7+3e+ann%C3%A9e;%F0%9F%8F%A0+Homelab+24%2F7+%7C+Proxmox+%C2%B7+11+LXC+%C2%B7+Docker;%F0%9F%94%A7+Technicien+IT+ind%C3%A9pendant+%7C+Lausanne%2C+Suisse" alt="Apprenti informaticien à l'ETML — Homelab 24/7 Proxmox et Docker — Technicien IT indépendant à Lausanne" /></a>
+<!-- Accroche (texte simple : aucune image externe) -->
+**🎓 Apprenti informaticien à l'ETML · 3e année**<br/>
+**🏠 Homelab 24/7 · Proxmox · 11 LXC · Docker**<br/>
+**🔧 Technicien IT indépendant · Lausanne, Suisse**
 
 <br/>
 
 <!-- SOCIAL BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/Tom1419-git?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=161b22)](https://github.com/Tom1419-git)
-[![Profile Views](https://komarev.com/ghpvc/?username=Tom1419-git&style=for-the-badge&color=0d4f8b&label=PROFILE+VIEWS)](https://github.com/Tom1419-git)
 
 </div>
 
@@ -190,6 +191,29 @@ Je conçois, déploie et maintiens des infrastructures qui tournent 24/7. Mon te
 <tr>
 <td width="50%" valign="top">
 
+### 📺 Accueil alpin pour Android TV
+> Lanceur Android TV en Java, publié sur [GitHub](https://github.com/Tom1419-git/alpine-tv-home)
+
+- Une photo du Riffelsee et du Cervin dont la lumière suit le vrai soleil, de l'aube à la nuit
+- Météo réelle (Open-Meteo) : pluie, neige, brouillard, orage, avec des transitions continues
+- Lisibilité de l'heure mesurée, bloc musique, screensaver assorti installé automatiquement par ADB
+- Testé sur une Sony Bravia (Android 11) ; aperçu navigateur pour voir le rendu sans TV
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio — [mayoraz-net.ch](https://mayoraz-net.ch)
+> Site Astro bilingue FR/EN, code sur [GitHub](https://github.com/Tom1419-git/mayoraz-net)
+
+- Orienté performance (Lighthouse SEO 100)
+- CI GitHub Actions, déploiement sur Cloudflare Workers
+- Sert aussi de vitrine à mon activité de technicien IT indépendant
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💾 Plan de reprise après sinistre (DRP)
 > **Rapport R-P_143** — Groupe — Windows Server 2025
 
@@ -272,26 +296,22 @@ homelab — des solutions fiables, documentées et maintenables.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Tom1419-git&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff&amp;count_private=true&amp;include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tom1419-git&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=57606a&amp;ring_color=0969da&amp;count_private=true&amp;include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets-readme/stats-dark.svg">
+  <img width="40%" src="assets-readme/stats-light.svg" alt="Statistiques GitHub : contributions, commits, dépôts publics, étoiles, abonnés">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Tom1419-git&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=161b22&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Tom1419-git&amp;hide_border=true&amp;background=ffffffef&amp;stroke=eaeef2&amp;ring=0969da&amp;fire=0969da&amp;currStreakLabel=0969da" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets-readme/langs-dark.svg">
+  <img width="40%" src="assets-readme/langs-light.svg" alt="Langages les plus utilisés dans les dépôts publics">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tom1419-git&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" />
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tom1419-git&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=57606a&amp;langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets-readme/streak-dark.svg">
+  <img width="60%" src="assets-readme/streak-light.svg" alt="Régularité : contributions des 12 derniers mois et séries de jours consécutifs">
 </picture>
 
-
-<br/>
-
-📊 **Chiffres réels** — 364 commits publics depuis juin 2026 · 5 repos
-(dont 265 sur [mayoraz-net](https://github.com/Tom1419-git/mayoraz-net), ce portfolio)
+<sub>Cartes générées chaque jour depuis l'API GitHub par [un script de ce dépôt](scripts/gen_stats.py), sans service externe.</sub>
 
 </div>
 
@@ -306,6 +326,7 @@ homelab — des solutions fiables, documentées et maintenables.
 | **Réseaux** | DNS redondant Pi-hole + DoH · VPN RRAS/NPS · reverse proxy Caddy (12 sites) |
 | **Linux** | Samba AD + Bind9 sur Debian · administration LXC/Docker quotidienne |
 | **Automatisation** | **[Vektor](https://github.com/Tom1419-git/vektor)** (bot IA à double confirmation), systemd timers, scripts bash/Python, backups chiffrés S3 |
+| **Développement** | Lanceur Android TV en Java ([alpine-tv-home](https://github.com/Tom1419-git/alpine-tv-home)) : rendu temps réel, météo, tests unitaires |
 | **Développement web** | Portfolio Astro i18n FR/EN (ce site) · e-commerce PHP MVC |
 | **Sécurité** | SSO Authelia + 2FA, CrowdSec, SSH par clés uniquement, secrets rotés |
 
